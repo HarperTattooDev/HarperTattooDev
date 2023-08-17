@@ -5,9 +5,13 @@
 - <b>HTML/CSS Practice</b>
   - [Praciting HTML & CSS ](https://github.com/HarperTattooDev)
   
-<h2> Certifications</h2>
+<h2>📄Certifications</h2>
 
 - [Pending Completion !](https://github.com/HarperTattooDev)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Coming soon](https://www.youtube.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
