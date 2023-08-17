@@ -7,7 +7,7 @@
   
 <h2> Certifications</h2>
 
-- [Comming Soon !](https://github.com/HarperTattooDev)
+- [Pending Completion !](https://github.com/HarperTattooDev)
 
 
 <h2> 🤳 Connect with me:</h2>
