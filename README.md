@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+- <b>HTML/CSS Practice</b>
+  - [Praciting HTML & CSS ](https://github.com/HarperTattooDev)
+  
 <h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Comming Soon !](https://github.com/HarperTattooDev)
 
 
 <h2> 🤳 Connect with me:</h2>
