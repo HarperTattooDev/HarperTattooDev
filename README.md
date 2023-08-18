@@ -5,7 +5,7 @@
 - <b>HTML</b>
   - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
 
-- <b>CSS/HTML Practice</b>
+- <b>CSS</b>
   - [Coming Soon]<!--(https://github.com/HarperTattooDev)-->
  
 - <b>Javascript</b>
