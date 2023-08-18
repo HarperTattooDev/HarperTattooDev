@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>HTML/CSS Practice</b>
-  - [Praciting HTML & CSS ](https://github.com/HarperTattooDev)
+- <b>HTML Practice</b>
+  - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
   
 <h2>📄Certifications</h2>
 
