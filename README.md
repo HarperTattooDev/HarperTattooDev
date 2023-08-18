@@ -6,27 +6,27 @@
   - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
 
 - <b>CSS</b>
-  - [Coming Soon]<!--(https://github.com/HarperTattooDev)-->
+  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
  
 - <b>Javascript</b>
-  - [Coming Soon]<!--(https://github.com/HarperTattooDev)-->
+  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
  
 - <b>React</b>
-  - [Coming Soon]<!--(https://github.com/HarperTattooDev)-->
+  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
 
 - <b>SQL</b>
-  - [Coming Soon]<!--(https://github.com/HarperTattooDev)-->
+  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
  
 - <b>Python</b>
-  - [Coming Soon]<!--(https://github.com/HarperTattooDev)--> 
+  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
   
 <h2>📄Certifications</h2>
 
-- [Coming Soon !]<!--(https://github.com/HarperTattooDev)-->
+- <!--[Coming Soon !](https://github.com/HarperTattooDev)-->
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Coming soon]<!-- (https://www.youtube.com/)-->
+- <!--[Coming soon] (https://www.youtube.com/)-->
 
 
 <h2> 🤳 Connect with me:</h2>
