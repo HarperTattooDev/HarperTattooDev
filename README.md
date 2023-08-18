@@ -3,6 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>HTML</b>
+  - [ToysRU](https://github.com/HarperTattooDev/ToysRU/tree/main)
   - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
 
 - <b>CSS</b>
