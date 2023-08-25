@@ -7,7 +7,7 @@
   - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
 
 - <b>CSS</b>
-  - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
+  - [Coffee](https://github.com/HarperTattooDev/CoffeeFCC/tree/main)
  
 - <b>Javascript</b>
   - <!--[Coming Soon](https://github.com/HarperTattooDev)-->
