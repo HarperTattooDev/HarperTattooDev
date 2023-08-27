@@ -23,8 +23,8 @@
   
 <h2>📄Certifications</h2>
 
-- [HTML "An understanding of the core concepts of websites and the HTML knowledge
-required to create web pages."](https://i.imgur.com/W3qr8fn.png)
+- [HTML: An understanding of the core concepts of websites and the HTML knowledge
+required to create web pages.](https://i.imgur.com/W3qr8fn.png)
 
 <h2>📺 Popular YouTube Videos</h2>
 
