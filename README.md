@@ -2,13 +2,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- <b>HTML5</b>
-  - [ToysRU](https://github.com/HarperTattooDev/ToysRU/tree/main)
-  - [CodePress](https://github.com/HarperTattooDev/codepress/blob/main)
-  - [Cat Photo App](https://github.com/HarperTattooDev/CatPhotoAppFCC/tree/main)
-  - 
-
-- <b>CSS3</b>
+- <b>HTML5, CSS3</b>
   - [Coffee](https://github.com/HarperTattooDev/CoffeeFCC/tree/main)
   - [Color Markers](https://github.com/HarperTattooDev/color-markers)
  
